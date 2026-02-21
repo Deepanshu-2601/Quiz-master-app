@@ -79,7 +79,7 @@ quiz_app/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/quiz_app.git
+   git clone https://github.com/Deepanshu-2601/quiz_app.git
    cd quiz_app
    ```
 
